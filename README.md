@@ -8,3 +8,5 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am very HAPPY;-)
 
+data-science-orientation.png
+![Mahdi's Profile Picture](./data-science-orientation.png)
