@@ -10,4 +10,5 @@
 
 <p align="center">
   <img src="./data-science-orientation.png" width="200">
+  <img src="./Tools for Data Science V2.png" width="200">
 </p>
