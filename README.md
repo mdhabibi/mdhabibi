@@ -13,4 +13,6 @@
   <img src="./Tools for Data Science V2.png" width="200">
   <img src="./Data_Science_Methodology_Foundational.png" width="200">
   <img src="./databases-and-sql-for-data-science.png" width="200">
+    <img src="./databases-and-sql-for-data-science.png" width="200">
+
 </p>
