@@ -9,12 +9,12 @@
 - ⚡ Fun fact: ...I am very HAPPY when everyone is HAPPY ;-)
 
 <p align="center">
-  <img src="./data-science-orientation.png" width="200">
-  <img src="./tools-for-data-science-v2.png" width="200">
-  <img src="./Data_Science_Methodology_Foundational.png" width="200">
-  <img src="./databases-and-sql-for-data-science.png" width="200">
-  <img src="./python-for-data-science-and-ai.png" width="200">
-  <img src="./data-analysis-with-python (1).png" width="200">
-  <img src="./machine-learning-with-python (1).png" width="200">
-
+  <img src="./data-science-orientation.png" width="100">
+  <img src="./tools-for-data-science-v2.png" width="100">
+  <img src="./Data_Science_Methodology_Foundational.png" width="100">
+  <img src="./databases-and-sql-for-data-science.png" width="100">
+  <img src="./python-for-data-science-and-ai.png" width="100">
+  <img src="./data-analysis-with-python (1).png" width="100">
+  <img src="./machine-learning-with-python (1).png" width="100">
 </p>
+
