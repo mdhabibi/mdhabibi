@@ -13,13 +13,12 @@
 ### 🏅 My Professional Badges
 
 <p align="center">
-  <img src="./data-science-orientation.png" width="150">
-  <img src="./tools-for-data-science-v2.png" width="150">
-  <img src="./Data_Science_Methodology_Foundational.png" width="150">
-  <img src="./databases-and-sql-for-data-science.png" width="150">
-  <img src="./python-for-data-science-and-ai.png" width="150">
-  <img src="./data-analysis-with-python (1).png" width="150">
-  <img src="./machine-learning-with-python (1).png" width="150">
+  <a href="YOUR_LINK_HERE"><img src="./data-science-orientation.png" width="150"></a>
+  <a href="YOUR_LINK_HERE"><img src="./tools-for-data-science-v2.png" width="150"></a>
+  <a href="YOUR_LINK_HERE"><img src="./Data_Science_Methodology_Foundational.png" width="150"></a>
+  <a href="YOUR_LINK_HERE"><img src="./databases-and-sql-for-data-science.png" width="150"></a>
+  <a href="YOUR_LINK_HERE"><img src="./python-for-data-science-and-ai.png" width="150"></a>
+  <a href="https://www.credly.com/badges/af63bb30-cacf-4bd3-8782-946aa34b3dfe/public_url"><img src="./data-analysis-with-python (1).png" width="150"></a>
+  <a href="YOUR_LINK_HERE"><img src="./machine-learning-with-python (1).png" width="150"></a>
 </p>
-
 
