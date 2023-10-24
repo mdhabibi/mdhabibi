@@ -8,6 +8,10 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am very HAPPY when everyone is HAPPY ;-)
 
+---
+
+### 🏅 My Professional Badges
+
 <p align="center">
   <img src="./data-science-orientation.png" width="150">
   <img src="./tools-for-data-science-v2.png" width="150">
@@ -17,4 +21,5 @@
   <img src="./data-analysis-with-python (1).png" width="150">
   <img src="./machine-learning-with-python (1).png" width="150">
 </p>
+
 
