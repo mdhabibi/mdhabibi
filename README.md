@@ -20,5 +20,7 @@
   <a href="https://www.credly.com/badges/477bb76c-b576-45df-80d0-786e5f52e0b2/public_url"><img src="./python-for-data-science-and-ai.png" width="150"></a>
   <a href="https://www.credly.com/badges/af63bb30-cacf-4bd3-8782-946aa34b3dfe/public_url"><img src="./data-analysis-with-python (1).png" width="150"></a>
   <a href="https://www.credly.com/badges/57740ecd-223d-40c9-8d14-814e19b17b46/public_url"><img src="./machine-learning-with-python (1).png" width="150"></a>
+  <a href="https://www.credly.com/badges/7ccde3f1-f520-4186-87b3-b68ba1334d9a/public_url"><img src="./machine-learning-with-python (1).png" width="150"></a>
+
 </p>
 
