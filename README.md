@@ -13,6 +13,7 @@
 ### 🏅 My Professional Badges
 
 <p align="center">
+  <a href="https://www.credly.com/badges/bc43b40a-eef4-4f7a-8f9d-ed97f8b4419e/public_url"><img src="./data-science-professional-certificate-v2.png" width="150"></a>
   <a href="https://www.credly.com/badges/fe0dc299-dd44-416d-827f-be2bfb5d4ac1/public_url"><img src="./data-science-orientation.png" width="150"></a>
   <a href="https://www.credly.com/badges/517ed3bd-99e0-4e06-a71a-7b4c608b38bb/public_url"><img src="./tools-for-data-science-v2.png" width="150"></a>
   <a href="https://www.credly.com/badges/4c44dda4-2eb8-4ecc-ac33-28893e13b6bc/public_url"><img src="./Data_Science_Methodology_Foundational.png" width="150"></a>
@@ -22,7 +23,6 @@
   <a href="https://www.credly.com/badges/57740ecd-223d-40c9-8d14-814e19b17b46/public_url"><img src="./machine-learning-with-python (1).png" width="150"></a>
   <a href="https://www.credly.com/badges/7ccde3f1-f520-4186-87b3-b68ba1334d9a/public_url"><img src="./data-visualization-with-python.png" width="150"></a>
   <a href="https://www.credly.com/badges/12c223d3-94e0-49d9-99e9-bab155b18540/public_url"><img src="./python-project-for-data-science.png" width="150"></a>
-  <a href="https://www.credly.com/badges/bc43b40a-eef4-4f7a-8f9d-ed97f8b4419e/public_url"><img src="./data-science-professional-certificate-v2.png" width="150"></a>
 </p>
 
 
