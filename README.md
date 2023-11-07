@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/bc43b40a-eef4-4f7a-8f9d-ed97f8b4419e/public_url"><img src="./data-science-professional-certificate-v2.png" width="150"></a>
-  <a href="https://www.credly.com/badges/7ea6a665-c975-468c-a385-b84c8dfcb485/public_url"><img src="./data-science-professional-certificate-v2.png" width="150"></a>
+  <a href="https://www.credly.com/badges/7ea6a665-c975-468c-a385-b84c8dfcb485/public_url"><img src="./applied-data-science-capstone.1.png" width="150"></a>
   <a href="https://www.credly.com/badges/fe0dc299-dd44-416d-827f-be2bfb5d4ac1/public_url"><img src="./data-science-orientation.png" width="150"></a>
   <a href="https://www.credly.com/badges/517ed3bd-99e0-4e06-a71a-7b4c608b38bb/public_url"><img src="./tools-for-data-science-v2.png" width="150"></a>
   <a href="https://www.credly.com/badges/4c44dda4-2eb8-4ecc-ac33-28893e13b6bc/public_url"><img src="./Data_Science_Methodology_Foundational.png" width="150"></a>
