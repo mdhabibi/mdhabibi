@@ -2,7 +2,7 @@
 - 🔭 I finished successfully my Ph.D. study in computational plasma physics with a "Magna Cum Laude" grade. 😄
 - 🌱 I’m currently working on a neural compression concept in deep learning algorithms. 
 - 👯 I’m looking to collaborate on open-source ML&DL projects.
-- 🤔 I’m seeking a job in data science and machine learning projects.
+- 🤔 I’m seeking a job as a role in data scientist and machine learning engineer.
 - 💬 Ask me about ... Soft Skills ...
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/mahdi-habibi/)
 - 😄 Pronouns: ...He/Him
