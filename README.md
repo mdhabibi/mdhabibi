@@ -1,5 +1,6 @@
 ### Hello World, I'm Mahdi, a data scientist and ML enginner! 👋
 - 🔭 I finished successfully my Ph.D. study in computational physics with a "Magna Cum Laude" grade. 😄
+- Currently, I am developing an XAI module for TelescopeML python Package. [TelescopeML](https://pypi.org/project/TelescopeML/)
 - 🤔 I’m seeking a job as a role in data scientist and machine learning engineer.
 - 💬 Ask me about ... Soft Skills ...
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/mahdi-habibi/)
