@@ -3,7 +3,7 @@
 - Solid background in mathematics, statistics, and computational science.
 - Collaborative team player, contributing 10+ years in cross-functional teams.
 - Proven experience in designing and implementing machine learning models.
-- Lead Developer of XAI Module for TelescopeML (LIMEXplainer) ([https://pypi.org/project/TelescopeML/](https://github.com/EhsanGharibNezhad/TelescopeML/tree/main))
+- Lead Developer of XAI Module for TelescopeML ([https://pypi.org/project/TelescopeML/](https://github.com/EhsanGharibNezhad/TelescopeML/tree/main))
 - Designed and developed XAI modules (LIME for time series) for ECG signals.
 - Developed XAI modules (LIME and CAM for images) for Malaria cell CNN classifier.
 
