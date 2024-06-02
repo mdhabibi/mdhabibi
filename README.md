@@ -8,6 +8,14 @@
 - Developed XAI modules (LIME and CAM for images) for Malaria cell CNN classifier.
 
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/mahdi-habibi/)
+
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/m_habibi36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_habibi36" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahdi-habibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-habibi" height="30" width="40" /></a>
+<a href="https://kaggle.com/mahdihabibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahdihabibi" height="30" width="40" /></a>
+<a href="https://medium.com/@mhabibi.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mhabibi.ds" height="30" width="40" /></a>
+</p>
 ---
 
 ### 🏅 My Professional Badges
