@@ -49,8 +49,8 @@
   </tr>
   <tr>
     <td>
-      <a href="[https://github.com/yourusername/yourproject1](https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git)">Malaria Cell Image Classification</a><br>
-      <em>Enhanced CNN model for malaria cell classification, featuring Class Activation Mapping (CAM) as a non-agnstic technique for anomaly localization and LIME (Local Interpretable-agnostic Explanation) for interpretability, ensuring high accuracy and transparent AI diagnostics.</em>
+      <a href="[https://github.com/yourusername/yourproject1](https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git)"><strong>Malaria Cell Image Classification</strong></a><br>
+      <em>Deep-CNN model for Malaria image cell classification, enhancing with featuring class activation mapping (CAM) as a non-agnstic technique for anomaly localization as well as LIME (Local Interpretable-agnostic Explanation) for interpretability, ensuring high accuracy and transparent AI diagnostics.</em>
     </td>
     <td><img src="MalariaClassifierArtImage.png" alt="Project 1 Poster" width="200"></td>
   </tr>
