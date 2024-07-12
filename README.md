@@ -89,10 +89,17 @@
     </td>
     <td><img src="poster-VAE.png" alt="Project 1 Poster" width="200"></td>
   </tr>
-        <tr>
+    <tr>
     <td>
       <a href="https://github.com/mdhabibi/Capstone-Project-IBM.git"><strong>Falcon 9 rocket Predictor</strong></a><br>
       <em>A data-driven project to predict the success of Falcon 9 rocket landings, crucial for cost analysis and competitive strategy in the space industry. Involves data manipulation in Pandas, JSON data processing, and insightful analysis using Python.</em>
+    </td>
+    <td><img src="poster-ibm.png" alt="Project 1 Poster" width="200"></td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/mdhabibi/Variational_AutoEncoders.git"><strong>Variational AutoEncoders (VAEs) with Keras</strong></a><br>
+      <em>This repository offers a collection of notebooks implementing various Variational AutoEncoder (VAE) architectures using the Keras deep learning framework. These implementations span multiple datasets and offer insights into the capabilities of VAEs for tasks such as neural compression and generative modeling.</em>
     </td>
     <td><img src="poster-ibm.png" alt="Project 1 Poster" width="200"></td>
   </tr>
