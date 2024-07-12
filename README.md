@@ -49,10 +49,10 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/yourusername/yourproject1">Project 1</a><br>
-      <em>Short description of project 1.</em>
+      <a href="[https://github.com/yourusername/yourproject1](https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git)">Malaria Cell Image Classification</a><br>
+      <em>Enhanced CNN model for malaria cell classification, featuring Class Activation Mapping (CAM) as a non-agnstic technique for anomaly localization and LIME (Local Interpretable-agnostic Explanation) for interpretability, ensuring high accuracy and transparent AI diagnostics.</em>
     </td>
-    <td><img src="path/to/your/project1-poster.png" alt="Project 1 Poster" width="200"></td>
+    <td><img src="Images/meresome-release-MIT.gif" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
     <td>
