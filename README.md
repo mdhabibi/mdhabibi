@@ -66,13 +66,13 @@
       <a href="https://github.com/mdhabibi/Automated-Cell-Semantic-Segmentation-with-UNet.git"><strong>Automated Nucleus Detection for Medical Discovery</strong></a><br>
       <em>A semantic segmentation solution for automating nucleus detection in biomedical images, leveraging the U-Net architecture to accelerate medical research and disease treatment discovery.</em>
     </td>
-    <td><img src="poster-comression.png" alt="Project 1 Poster" width="200"></td>
+    <td><img src="giphy.gif" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/mdhabibi/Neural-Compression-with-Autoencoders.git"><strong>DataCompressNet</strong></a><br>
       <em>Exploring advanced autoencoder architectures for efficient data compression on EMNIST dataset, focusing on high-fidelity image reconstruction with minimal information loss. This project tests various encoder-decoder configurations to optimize performance metrics like MSE, SSIM, and PSNR, aiming to achieve near-lossless data compression.</em>
     </td>
-    <td><img src="giphy.gif" alt="Project 1 Poster" width="200"></td>
+    <td><img src="poster-comression.png" alt="Project 1 Poster" width="200"></td>
   </tr>
 </table>
