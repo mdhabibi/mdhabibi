@@ -38,4 +38,35 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdhabibi&show_icons=true&locale=en" alt="mdhabibi" /></p>
 
+---
 
+### Projects and Posters
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Poster</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/yourusername/yourproject1">Project 1</a><br>
+      <em>Short description of project 1.</em>
+    </td>
+    <td><img src="path/to/your/project1-poster.png" alt="Project 1 Poster" width="200"></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/yourusername/yourproject2">Project 2</a><br>
+      <em>Short description of project 2.</em>
+    </td>
+    <td><img src="path/to/your/project2-poster.png" alt="Project 2 Poster" width="200"></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/yourusername/yourproject3">Project 3</a><br>
+      <em>Short description of project 3.</em>
+    </td>
+    <td><img src="path/to/your/project3-poster.png" alt="Project 3 Poster" width="200"></td>
+  </tr>
+  <!-- Add more projects as needed -->
+</table>
