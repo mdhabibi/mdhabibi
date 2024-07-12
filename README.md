@@ -101,6 +101,6 @@
       <a href="https://github.com/mdhabibi/Variational_AutoEncoders.git"><strong>Variational AutoEncoders (VAEs) with Keras</strong></a><br>
       <em>This repository offers a collection of notebooks implementing various Variational AutoEncoder (VAE) architectures using the Keras deep learning framework. These implementations span multiple datasets and offer insights into the capabilities of VAEs for tasks such as neural compression and generative modeling.</em>
     </td>
-    <td><img src="poster-ibm.png" alt="Project 1 Poster" width="200"></td>
+    <td><img src="VAE.jpg" alt="Project 1 Poster" width="200"></td>
   </tr>
 </table>
