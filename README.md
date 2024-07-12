@@ -68,5 +68,11 @@
     </td>
     <td><img src="giphy.gif" alt="Project 1 Poster" width="200"></td>
   </tr>
-  <!-- Add more projects as needed -->
+  <tr>
+    <td>
+      <a href="https://github.com/mdhabibi/Automated-Cell-Semantic-Segmentation-with-UNet.git"><strong>Automated Nucleus Detection for Medical Discovery</strong></a><br>
+      <em>A semantic segmentation solution for automating nucleus detection in biomedical images, leveraging the U-Net architecture to accelerate medical research and disease treatment discovery.</em>
+    </td>
+    <td><img src="giphy.gif" alt="Project 1 Poster" width="200"></td>
+  </tr>
 </table>
