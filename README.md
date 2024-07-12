@@ -75,4 +75,11 @@
     </td>
     <td><img src="poster-comression.png" alt="Project 1 Poster" width="200"></td>
   </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/mdhabibi/LIME-for-Time-Series.git"><strong>LIME for Time-Series Explanation in ECG Classification</strong></a><br>
+      <em>LIME for TimeSeries enhances AI transparency by providing LIME-based interpretability tools for time series models. It offers insights into model predictions, fostering trust and understanding in complex AI systems.</em>
+    </td>
+    <td><img src="ECG_Animation.gif" alt="Project 1 Poster" width="200"></td>
+  </tr>
 </table>
