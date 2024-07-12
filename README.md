@@ -26,8 +26,8 @@
   <a href="https://www.credly.com/badges/7ea6a665-c975-468c-a385-b84c8dfcb485/public_url"><img src="./applied-data-science-capstone.1.png" width="150"></a>
   <!--<a href="https://www.credly.com/badges/fe0dc299-dd44-416d-827f-be2bfb5d4ac1/public_url"><img src="./data-science-orientation.png" width="150"></a>-->
   <!--<a href="https://www.credly.com/badges/517ed3bd-99e0-4e06-a71a-7b4c608b38bb/public_url"><img src="./tools-for-data-science-v2.png" width="150"></a>-->
-  <!--<a href="https://www.credly.com/badges/4c44dda4-2eb8-4ecc-ac33-28893e13b6bc/public_url"><img src="./Data_Science_Methodology_Foundational.png" width="150"></a>-->
-  <!--<a href="https://www.credly.com/badges/81761b38-53d2-4f47-8dee-42dc1a9af259/public_url"><img src="./databases-and-sql-for-data-science.png" width="150"></a>-->
+  <a href="https://www.credly.com/badges/4c44dda4-2eb8-4ecc-ac33-28893e13b6bc/public_url"><img src="./Data_Science_Methodology_Foundational.png" width="150"></a>
+  <a href="https://www.credly.com/badges/81761b38-53d2-4f47-8dee-42dc1a9af259/public_url"><img src="./databases-and-sql-for-data-science.png" width="150"></a>
   <!--<a href="https://www.credly.com/badges/477bb76c-b576-45df-80d0-786e5f52e0b2/public_url"><img src="./python-for-data-science-and-ai.png" width="150"></a>-->
   <!--<a href="https://www.credly.com/badges/af63bb30-cacf-4bd3-8782-946aa34b3dfe/public_url"><img src="./data-analysis-with-python (1).png" width="150"></a>-->
   <!--<a href="https://www.credly.com/badges/57740ecd-223d-40c9-8d14-814e19b17b46/public_url"><img src="./machine-learning-with-python (1).png" width="150"></a>-->
