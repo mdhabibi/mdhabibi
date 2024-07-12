@@ -40,7 +40,7 @@
 
 ---
 
-### Projects and Posters
+### Projects
 
 <table>
   <tr>
