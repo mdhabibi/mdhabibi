@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git"><strong>TelescopeML</strong></a><br>
+      <a href="https://github.com/EhsanGharibNezhad/TelescopeML.git"><strong>TelescopeML</strong></a><br>
       <em>Deep Convolutional Neural Networks and Machine Learning Models for Analyzing Stellar and Exoplanetary Telescope Spectra</em>
     </td>
     <td><img src="TelescopeML.png" alt="Project 1 Poster" width="200"></td>
