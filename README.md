@@ -85,7 +85,7 @@
       <tr>
     <td>
       <a href="https://github.com/mdhabibi/DeepLearning-VAE.git"><strong>DeepLearning-VAE</strong></a><br>
-      <em>Exploring the depths of generative learning with a $\beta$-Variational Autoencoder ($\beta$-VAE) applied to the MNIST dataset for robust digit reconstruction and latent space analysis.</em>
+      <em>Exploring the depths of generative learning with a beta-Variational Autoencoder (beta-VAE) applied to the MNIST dataset for robust digit reconstruction and latent space analysis.</em>
     </td>
     <td><img src="poster-VAE.png" alt="Project 1 Poster" width="200"></td>
   </tr>
