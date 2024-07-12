@@ -43,8 +43,6 @@
 
 ---
 
-### Projects
-
 <table>
   <tr>
     <th>Project</th>
