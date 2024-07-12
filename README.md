@@ -49,10 +49,10 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git"><strong>Malaria Cell Image Classification</strong></a><br>
-      <em>Deep-CNN model for Malaria image cell classification, enhancing with featuring class activation mapping (CAM) as a non-agnostic technique for anomaly localization as well as LIME (Local Interpretable-agnostic Explanation) for interpretability, ensuring high accuracy and transparent AI diagnostics.</em>
+      <a href="[https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git](https://github.com/EhsanGharibNezhad/TelescopeML.git)"><strong>TelescopeML</strong></a><br>
+      <em>Deep Convolutional Neural Networks and Machine Learning Models for Analyzing Stellar and Exoplanetary Telescope Spectra</em>
     </td>
-    <td><img src="MalariaClassifierArtImage.png" alt="Project 1 Poster" width="200"></td>
+    <td><img src="TelescopeML.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
     <td>
