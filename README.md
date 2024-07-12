@@ -45,7 +45,7 @@
 
 <table>
   <tr>
-    <th>Project</th>
+    <th>Projects</th>
     <th>Poster</th>
   </tr>
   <tr>
