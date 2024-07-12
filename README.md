@@ -56,10 +56,10 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/yourusername/yourproject2"><strong>Project 2</strong></a><br>
-      <em>Short description of project 2.</em>
+      <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git"><strong>Malaria Cell Image Classification</strong></a><br>
+      <em>Deep-CNN model for Malaria image cell classification, enhancing with featuring class activation mapping (CAM) as a non-agnostic technique for anomaly localization as well as LIME (Local Interpretable-agnostic Explanation) for interpretability, ensuring high accuracy and transparent AI diagnostics.</em>
     </td>
-    <td><img src="path/to/your/project2-poster.png" alt="Project 2 Poster" width="200"></td>
+    <td><img src="MalariaClassifierArtImage.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
     <td>
