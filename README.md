@@ -133,5 +133,15 @@
     <td>Netflix Titles Metadata (CSV)</td>
     <td><img src="netflix.jpg" alt="Netflix Content Analysis Poster" width="200"></td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.kaggle.com/code/mahdihabibi/air-passenger-time-series-analysis-1"><strong>Air Passenger Time Series Analysis</strong></a><br>
+      <em>An exploratory analysis of the Air Passengers time series dataset from 1949 to 1960, uncovering trends and patterns in air travel over the years.</em>
+    </td>
+    <td>Time Series Analysis, Log Transformation, Moving Averages, Seasonal Decomposition, Seasonal Adjustment</td>
+    <td>Time Series Data (CSV)</td>
+    <td><img src="airspace.jpg" alt="Air Passenger Time Series Analysis Poster" width="200"></td>
+  </tr>
 </table>
+
 
