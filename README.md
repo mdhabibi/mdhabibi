@@ -43,9 +43,13 @@
 
 ---
 
+### Projects
+
 <table>
   <tr>
     <th>Projects</th>
+    <th>Techniques</th>
+    <th>Data Types</th>
     <th>Poster</th>
   </tr>
   <tr>
@@ -53,6 +57,8 @@
       <a href="https://github.com/EhsanGharibNezhad/TelescopeML.git"><strong>TelescopeML</strong></a><br>
       <em>Deep Convolutional Neural Networks and Machine Learning Models for Analyzing Stellar and Exoplanetary Telescope Spectra</em>
     </td>
+    <td>Deep Convolutional Neural Networks, Machine Learning</td>
+    <td>Stellar and Exoplanetary Telescope Spectra (Time-Series)</td>
     <td><img src="TelescopeML.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
@@ -60,6 +66,8 @@
       <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git"><strong>Malaria Cell Image Classification</strong></a><br>
       <em>Deep-CNN model for Malaria image cell classification, enhancing with featuring class activation mapping (CAM) as a non-agnostic technique for anomaly localization as well as LIME (Local Interpretable-agnostic Explanation) for interpretability, ensuring high accuracy and transparent AI diagnostics.</em>
     </td>
+    <td>Deep Convolutional Neural Networks, Keras-tunner, CAM, LIME</td>
+    <td>Malaria Cell Images</td>
     <td><img src="MalariaClassifierArtImage.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
@@ -67,6 +75,8 @@
       <a href="https://github.com/mdhabibi/Automated-Cell-Semantic-Segmentation-with-UNet.git"><strong>Automated Nucleus Detection for Medical Discovery</strong></a><br>
       <em>A semantic segmentation solution for automating nucleus detection in biomedical images, leveraging the U-Net architecture to accelerate medical research and disease treatment discovery.</em>
     </td>
+    <td>U-Net, Keras-tunner, Semantic Segmentation</td>
+    <td>Biomedical Images</td>
     <td><img src="giphy.gif" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
@@ -74,34 +84,54 @@
       <a href="https://github.com/mdhabibi/Neural-Compression-with-Autoencoders.git"><strong>DataCompressNet</strong></a><br>
       <em>Exploring advanced autoencoder architectures for efficient data compression on EMNIST dataset, focusing on high-fidelity image reconstruction with minimal information loss. This project tests various encoder-decoder configurations to optimize performance metrics like MSE, SSIM, and PSNR, aiming to achieve near-lossless data compression.</em>
     </td>
+    <td>Autoencoders</td>
+    <td>Image Dataset</td>
     <td><img src="poster-comression.png" alt="Project 1 Poster" width="200"></td>
   </tr>
-    <tr>
+  <tr>
     <td>
       <a href="https://github.com/mdhabibi/LIME-for-Time-Series.git"><strong>LIME for Time-Series Explanation in ECG Classification</strong></a><br>
       <em>LIME for TimeSeries enhances AI transparency by providing LIME-based interpretability tools for time series models. It offers insights into model predictions, fostering trust and understanding in complex AI systems.</em>
     </td>
+    <td>CNN, LIME, Time Series Analysis</td>
+    <td>ECG Data</td>
     <td><img src="ECG_Animation.gif" alt="Project 1 Poster" width="200"></td>
   </tr>
-      <tr>
+  <tr>
     <td>
       <a href="https://github.com/mdhabibi/DeepLearning-VAE.git"><strong>DeepLearning-VAE</strong></a><br>
       <em>Exploring the depths of generative learning with a beta-Variational Autoencoder (beta-VAE) applied to the MNIST dataset for robust digit reconstruction and latent space analysis.</em>
     </td>
+    <td>beta-Variational Autoencoder</td>
+    <td>Image Dataset</td>
     <td><img src="poster-VAE.png" alt="Project 1 Poster" width="200"></td>
   </tr>
-    <tr>
+  <tr>
     <td>
       <a href="https://github.com/mdhabibi/Capstone-Project-IBM.git"><strong>Falcon 9 rocket Predictor</strong></a><br>
       <em>A data-driven project to predict the success of Falcon 9 rocket landings, crucial for cost analysis and competitive strategy in the space industry. Involves data manipulation in Pandas, JSON data processing, and insightful analysis using Python.</em>
     </td>
+    <td>Machine-Learning, Data Manipulation, Web-scraping, JSON Data Processing</td>
+    <td>Rocket Launch Data</td>
     <td><img src="poster-ibm.png" alt="Project 1 Poster" width="200"></td>
   </tr>
-    <tr>
+  <tr>
     <td>
       <a href="https://github.com/mdhabibi/Variational_AutoEncoders.git"><strong>Variational AutoEncoders (VAEs) with Keras</strong></a><br>
       <em>This repository offers a collection of notebooks implementing various Variational AutoEncoder (VAE) architectures using the Keras deep learning framework. These implementations span multiple datasets and offer insights into the capabilities of VAEs for tasks such as neural compression and generative modeling.</em>
     </td>
+    <td>Variational AutoEncoders</td>
+    <td>Multiple Image Datasets</td>
     <td><img src="VAE.jpg" alt="Project 1 Poster" width="200"></td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.kaggle.com/code/mahdihabibi/netflix-content-analysis"><strong>Netflix Content Analysis</strong></a><br>
+      <em>An exploratory analysis of Netflix's vast catalog to uncover trends and insights into content distribution, popularity, quality, and key contributors.</em>
+    </td>
+    <td>Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis</td>
+    <td>Netflix Titles Metadata (CSV)</td>
+    <td><img src="netflix.jpg" alt="Netflix Content Analysis Poster" width="200"></td>
+  </tr>
 </table>
+
