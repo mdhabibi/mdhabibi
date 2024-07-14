@@ -161,6 +161,15 @@
     <td>Timeseries</td>
     <td><img src="airspace.jpg" alt="Air Passenger Time Series Analysis Poster" width="200"></td>
   </tr>
+   <tr>
+    <td>
+      <a href="https://www.kaggle.com/datasets/mahdihabibi/segmented-peripheral-blood-cells-using-opencv"><strong>Segmented Peripheral Blood Cells Using OpenCV</strong></a><br>
+      <em>A Dataset of Segmented White Blood Cell Images Using Advanced Image Processing Techniques.</em>
+    </td>
+    <td>GrabCut, Morphological Operations, OpenCV</td>
+    <td>Image, Binary Masks</td>
+    <td><img src="wbc_segmentation_poster.png" alt="White Blood Cell Segmentation Dataset Poster" width="200"></td>
+  </tr>
 </table>
 
 
