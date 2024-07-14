@@ -56,18 +56,36 @@
       <a href="https://github.com/EhsanGharibNezhad/TelescopeML.git"><strong>TelescopeML</strong></a><br>
       <em>Deep Convolutional Neural Networks and Machine Learning Models for Analyzing Stellar and Exoplanetary Telescope Spectra</em>
     </td>
-    <td>Deep Convolutional Neural Networks, Machine Learning</td>
-    <td>Timeseries Stellar and Exoplanetary Telescope Spectra</td>
+    <td>Deep CNN, Machine Learning</td>
+    <td>Timeseries, Tabular</td>
     <td><img src="TelescopeML.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git"><strong>Malaria Cell Image Classification</strong></a><br>
-      <em>Deep-CNN model for Malaria image cell classification, enhancing with featuring class activation mapping (CAM) as a non-agnostic technique for anomaly localization as well as LIME (Local Interpretable-agnostic Explanation) for interpretability, ensuring high accuracy and transparent AI diagnostics.</em>
+      <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git"><strong>Malaria Cell Classifier</strong></a><br>
+      <em>Deep Convolutional Neural Networks and Machine Learning Models for Anomaly Detection in Microscopic Malaria cells.</em>
     </td>
-    <td>Deep Convolutional Neural Networks, Keras-tunner, CAM, LIME</td>
-    <td>Malaria Cell Images</td>
+    <td>Deep CNN, Data Augmentation</td>
+    <td>Image</td>
     <td><img src="MalariaClassifierArtImage.png" alt="Project 1 Poster" width="200"></td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM/blob/a92f31337892b74239f7392dab45d17f34326e58/Notebooks/LIME_test.ipynb"><strong>LIME for Macroscopic Medical Images</strong></a><br>
+      <em>A Surrogate Model (Local Interpretable Model-agnostic Explanations) for Enhancing Transparency of Medical Diagnostics.</em>
+    </td>
+    <td>Deep CNN, LIME</td>
+    <td>Image</td>
+    <td><img src="LIME.png" alt="Project 1 Poster" width="200"></td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM/blob/a92f31337892b74239f7392dab45d17f34326e58/Notebooks/CAM_test.ipynb"><strong>CAM for Macroscopic Medical Images</strong></a><br>
+      <em>Class Activation Mapping (CAM) Technique for Anomaly Localization Interpretability.</em>
+    </td>
+    <td>Deep CNN, CAM</td>
+    <td>Image</td>
+    <td><img src="CAM.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
     <td>
