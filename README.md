@@ -130,7 +130,7 @@
       <a href="https://github.com/mdhabibi/Capstone-Project-IBM.git"><strong>Falcon 9 rocket Predictor</strong></a><br>
       <em>A Data-Driven Project to Predict the Success of Falcon 9 Rocket Landings.</em>
     </td>
-    <td>Machine-Learning, Data Manipulation, Web-scraping, JSON Data Processing, SQL, Hadoop</td>
+    <td>Data Wrangling, Feature Engineering, Web-Scraping, JSON Data Processing, SQL, Hadoop, Folium</td>
     <td>Unstructured Data, Tabular, Database</td>
     <td><img src="poster-ibm.png" alt="Project 1 Poster" width="200"></td>
   </tr>
