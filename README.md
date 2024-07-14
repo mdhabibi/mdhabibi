@@ -31,6 +31,8 @@
   <!--<a href="https://www.credly.com/badges/af63bb30-cacf-4bd3-8782-946aa34b3dfe/public_url"><img src="./data-analysis-with-python (1).png" width="150"></a>-->
   <!--<a href="https://www.credly.com/badges/57740ecd-223d-40c9-8d14-814e19b17b46/public_url"><img src="./machine-learning-with-python (1).png" width="150"></a>-->
   <!--<a href="https://www.credly.com/badges/7ccde3f1-f520-4186-87b3-b68ba1334d9a/public_url"><img src="./data-visualization-with-python.png" width="150"></a>-->
+  <a href="https://courses.opencv.org/certificates/1d6c6cee0d274714950b136b424ecded"><img src="./opencv_university_logo.jpeg" width="150"></a>
+
 </p>
 ---
 <h3 align="left">Skills:</h3>
@@ -53,11 +55,11 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/EhsanGharibNezhad/TelescopeML.git"><strong>TelescopeML</strong></a><br>
+      <a href="https://github.com/EhsanGharibNezhad/TelescopeML.git"><strong>TelescopeML Open-Source Python Package</strong></a><br>
       <em>Deep Convolutional Neural Networks and Machine Learning Models for Analyzing Stellar and Exoplanetary Telescope Spectra</em>
     </td>
     <td>Deep CNN, Machine Learning</td>
-    <td>Timeseries, Tabular</td>
+    <td>Timeseries, Tabular, XAI</td>
     <td><img src="TelescopeML.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
@@ -74,7 +76,7 @@
       <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM/blob/a92f31337892b74239f7392dab45d17f34326e58/Notebooks/LIME_test.ipynb"><strong>LIME for Macroscopic Medical Images</strong></a><br>
       <em>A Surrogate Model (Local Interpretable Model-agnostic Explanations) for Enhancing Transparency of Medical Diagnostics.</em>
     </td>
-    <td>Deep CNN, LIME</td>
+    <td>Deep CNN, LIME, XAI</td>
     <td>Image</td>
     <td><img src="LIME.png" alt="Project 1 Poster" width="200"></td>
   </tr>
@@ -83,7 +85,7 @@
       <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM/blob/a92f31337892b74239f7392dab45d17f34326e58/Notebooks/CAM_test.ipynb"><strong>CAM for Macroscopic Medical Images</strong></a><br>
       <em>Class Activation Mapping (CAM) Technique for Anomaly Localization Interpretability.</em>
     </td>
-    <td>Deep CNN, CAM</td>
+    <td>Deep CNN, CAM, XAI</td>
     <td>Image</td>
     <td><img src="CAM.png" alt="Project 1 Poster" width="200"></td>
   </tr>
@@ -98,29 +100,29 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/mdhabibi/Neural-Compression-with-Autoencoders.git"><strong>DataCompressNet</strong></a><br>
-      <em>Exploring advanced autoencoder architectures for efficient data compression on EMNIST dataset, focusing on high-fidelity image reconstruction with minimal information loss. This project tests various encoder-decoder configurations to optimize performance metrics like MSE, SSIM, and PSNR, aiming to achieve near-lossless data compression.</em>
+      <a href="https://github.com/mdhabibi/Neural-Compression-with-Autoencoders.git"><strong>Neural Compression</strong></a><br>
+      <em>Advanced Autoencoder Architecture for Efficient Data Compression Losslessly.</em>
     </td>
-    <td>Autoencoders</td>
-    <td>Image Dataset</td>
+    <td>Autoencoder, GenAI, SSIM, PSNR</td>
+    <td>Image</td>
     <td><img src="poster-comression.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/mdhabibi/LIME-for-Time-Series.git"><strong>LIME for Time-Series Explanation in ECG Classification</strong></a><br>
-      <em>LIME for TimeSeries enhances AI transparency by providing LIME-based interpretability tools for time series models. It offers insights into model predictions, fostering trust and understanding in complex AI systems.</em>
+      <a href="https://github.com/mdhabibi/LIME-for-Time-Series.git"><strong>LIME for ECG Classification</strong></a><br>
+      <em>A Surrogate Model (Local Interpretable Model-agnostic Explanations) for Enhancing Transparency of TimeSeries.</em>
     </td>
     <td>CNN, LIME, Time Series Analysis</td>
-    <td>ECG Data</td>
+    <td>Timeseries</td>
     <td><img src="ECG_Animation.gif" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/mdhabibi/DeepLearning-VAE.git"><strong>DeepLearning-VAE</strong></a><br>
-      <em>Exploring the depths of generative learning with a beta-Variational Autoencoder (beta-VAE) applied to the MNIST dataset for robust digit reconstruction and latent space analysis.</em>
+      <a href="https://github.com/mdhabibi/DeepLearning-VAE.git"><strong>Variational Autoencoders</strong></a><br>
+      <em>Generative Learning (GenAI) with Beta-Variational Autoencoders.</em>
     </td>
-    <td>beta-Variational Autoencoder</td>
-    <td>Image Dataset</td>
+    <td>Beta-VAEs, Latent Space Analysis</td>
+    <td>Image</td>
     <td><img src="poster-VAE.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
