@@ -57,7 +57,7 @@
       <em>Deep Convolutional Neural Networks and Machine Learning Models for Analyzing Stellar and Exoplanetary Telescope Spectra</em>
     </td>
     <td>Deep Convolutional Neural Networks, Machine Learning</td>
-    <td>Stellar and Exoplanetary Telescope Spectra (Time-Series)</td>
+    <td>Timeseries Stellar and Exoplanetary Telescope Spectra</td>
     <td><img src="TelescopeML.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
