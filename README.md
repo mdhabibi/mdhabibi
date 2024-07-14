@@ -89,11 +89,11 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/mdhabibi/Automated-Cell-Semantic-Segmentation-with-UNet.git"><strong>Automated Nucleus Detection for Medical Discovery</strong></a><br>
-      <em>A semantic segmentation solution for automating nucleus detection in biomedical images, leveraging the U-Net architecture to accelerate medical research and disease treatment discovery.</em>
+      <a href="https://github.com/mdhabibi/Automated-Cell-Semantic-Segmentation-with-UNet.git"><strong>Automated Nucleus Detectior</strong></a><br>
+      <em>A Semantic Segmentation Solution for Automating Nucleus Detection of Microscopic Biomedical Images.</em>
     </td>
     <td>U-Net, Keras-tunner, Semantic Segmentation</td>
-    <td>Biomedical Images</td>
+    <td>Image</td>
     <td><img src="giphy.gif" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
