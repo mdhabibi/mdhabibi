@@ -168,7 +168,7 @@
     </td>
     <td>GrabCut, Morphological Operations, OpenCV</td>
     <td>Image, Binary Masks</td>
-    <td><img src="wbc_segmentation_poster.png" alt="White Blood Cell Segmentation Dataset Poster" width="200"></td>
+    <td><img src="kaggel1.png" alt="White Blood Cell Segmentation Dataset Poster" width="200"></td>
   </tr>
 </table>
 
