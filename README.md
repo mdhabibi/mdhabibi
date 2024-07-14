@@ -123,7 +123,7 @@
     </td>
     <td>Beta-VAEs, Latent Space Analysis</td>
     <td>Image</td>
-    <td><img src="poster-VAE.png" alt="Project 1 Poster" width="200"></td>
+    <td><img src="VAEs.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
     <td>
