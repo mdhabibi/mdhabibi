@@ -1,13 +1,12 @@
 ### Hello World, I'm Mahdi, Data Scientist | MLOps | Computational Physicist (Ph.D.)! 👋
-- Data scientist and machine learning developer with over 5+ years of experience.
-- Expert in Python and SQL with a solid foundation in physics, mathematics, statistics, and data analysis.
-- Designed algorithms and developed end-to-end AI/ML projects, collaborating with cross-functional teams.
-- Proficient in real-time applications for AI/ML (speech recognition & text processing with LLM).
-- Experience in integrating data from external databases for enriched ML models.
-- Leadership experience in fostering collaborative and innovative work environments.
-- Lead Developer of XAI Module for TelescopeML ([https://pypi.org/project/TelescopeML/](https://github.com/EhsanGharibNezhad/TelescopeML/tree/main))
-- Designed and developed XAI modules (LIME for time series) for ECG signals.
-- Developed XAI modules (LIME and CAM for images) for Malaria cell CNN classifier.
+
+● Data scientist and machine learning developer with over 10 years of experience in data science.
+● Expert in Python, C++, with a solid foundation in physics, mathematics, and statistics.
+● Expert in developing XAI modules to enhance decision-making transparency of DL black-box models for image, timeseries, tabular, and text datasets.
+● Developer of the Open-Source Python Package (TelescopeML).
+● Lead developer of XAI module for TelescopeML (PyPI). 
+● Developer of end-to-end AI/ML/DL projects, collaborating with cross-functional teams.
+● Developer of a novel suppression model and particle-in-cell simulation module for emission flux.
 ---
 
 <h3 align="left">Connect with me:</h3>
