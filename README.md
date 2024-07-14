@@ -141,7 +141,7 @@
     </td>
     <td>Variational AutoEncoders, Exploratory Data Analysis (EDA)</td>
     <td>Image</td>
-    <td><img src="VAE.jpg" alt="Project 1 Poster" width="200"></td>
+    <td><img src="AEs.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
     <td>
