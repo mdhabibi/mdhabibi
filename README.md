@@ -58,8 +58,8 @@
       <a href="https://github.com/EhsanGharibNezhad/TelescopeML.git"><strong>TelescopeML Open-Source Python Package</strong></a><br>
       <em>Deep Convolutional Neural Networks and Machine Learning Models for Analyzing Stellar and Exoplanetary Telescope Spectra</em>
     </td>
-    <td>Deep CNN, Machine Learning</td>
-    <td>Timeseries, Tabular, XAI</td>
+    <td>Deep CNN, Machine Learning, XAI, LIME</td>
+    <td>Timeseries, Tabular</td>
     <td><img src="TelescopeML.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
@@ -118,7 +118,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/mdhabibi/DeepLearning-VAE.git"><strong>Variational Autoencoders</strong></a><br>
+      <a href="https://github.com/mdhabibi/DeepLearning-VAE.git"><strong>Beta-Variational Autoencoders</strong></a><br>
       <em>Generative Learning (GenAI) with Beta-Variational Autoencoders.</em>
     </td>
     <td>Beta-VAEs, Latent Space Analysis</td>
@@ -128,37 +128,37 @@
   <tr>
     <td>
       <a href="https://github.com/mdhabibi/Capstone-Project-IBM.git"><strong>Falcon 9 rocket Predictor</strong></a><br>
-      <em>A data-driven project to predict the success of Falcon 9 rocket landings, crucial for cost analysis and competitive strategy in the space industry. Involves data manipulation in Pandas, JSON data processing, and insightful analysis using Python.</em>
+      <em>A Data-Driven Project to Predict the Success of Falcon 9 Rocket Landings.</em>
     </td>
-    <td>Machine-Learning, Data Manipulation, Web-scraping, JSON Data Processing</td>
-    <td>Rocket Launch Data</td>
+    <td>Machine-Learning, Data Manipulation, Web-scraping, JSON Data Processing, SQL, Hadoop</td>
+    <td>Unstructured Data, Tabular, Database</td>
     <td><img src="poster-ibm.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/mdhabibi/Variational_AutoEncoders.git"><strong>Variational AutoEncoders (VAEs) with Keras</strong></a><br>
-      <em>This repository offers a collection of notebooks implementing various Variational AutoEncoder (VAE) architectures using the Keras deep learning framework. These implementations span multiple datasets and offer insights into the capabilities of VAEs for tasks such as neural compression and generative modeling.</em>
+      <a href="https://github.com/mdhabibi/Variational_AutoEncoders.git"><strong>Variational AutoEncoders</strong></a><br>
+      <em>A collection of Variational AutoEncoder (VAE) architectures developed by Keras deep learning framework.</em>
     </td>
-    <td>Variational AutoEncoders</td>
-    <td>Multiple Image Datasets</td>
+    <td>Variational AutoEncoders, Exploratory Data Analysis (EDA)</td>
+    <td>Image</td>
     <td><img src="VAE.jpg" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
     <td>
       <a href="https://www.kaggle.com/code/mahdihabibi/netflix-content-analysis"><strong>Netflix Content Analysis</strong></a><br>
-      <em>An exploratory analysis of Netflix's vast catalog to uncover trends and insights into content distribution, popularity, quality, and key contributors.</em>
+      <em>An Exploratory Analysis of Netflix's Vast Catalog to Uncover Trends and Insights into Content Distribution, Popularity, Quality, and Key Contributors.</em>
     </td>
     <td>Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis</td>
-    <td>Netflix Titles Metadata (CSV)</td>
+    <td>Metadata</td>
     <td><img src="netflix.jpg" alt="Netflix Content Analysis Poster" width="200"></td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.kaggle.com/code/mahdihabibi/air-passenger-time-series-analysis-1"><strong>Air Passenger Time Series Analysis</strong></a><br>
-      <em>An exploratory analysis of the Air Passengers time series dataset from 1949 to 1960, uncovering trends and patterns in air travel over the years.</em>
+      <a href="https://www.kaggle.com/code/mahdihabibi/air-passenger-time-series-analysis-1"><strong>Air Passenger Timeseries Analysis</strong></a><br>
+      <em>An Exploratory Analysis of the Air Passengers Timeseries dataset, Uncovering Trends and Patterns in Air Travel Over the Years.</em>
     </td>
-    <td>Time Series Analysis, Log Transformation, Moving Averages, Seasonal Decomposition, Seasonal Adjustment</td>
-    <td>Time Series Data (CSV)</td>
+    <td>Timeseries Analysis, Log Transformation, Moving Averages, Seasonal Decomposition, Seasonal Adjustment</td>
+    <td>Timeseries</td>
     <td><img src="airspace.jpg" alt="Air Passenger Time Series Analysis Poster" width="200"></td>
   </tr>
 </table>
