@@ -32,7 +32,7 @@
   <!--<a href="https://www.credly.com/badges/57740ecd-223d-40c9-8d14-814e19b17b46/public_url"><img src="./machine-learning-with-python (1).png" width="150"></a>-->
   <!--<a href="https://www.credly.com/badges/7ccde3f1-f520-4186-87b3-b68ba1334d9a/public_url"><img src="./data-visualization-with-python.png" width="150"></a>-->
   <a href="https://courses.opencv.org/certificates/1d6c6cee0d274714950b136b424ecded"><img src="./opencv_university_logo.jpeg" width="180"></a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/F95NAAJJUTDM"><img src="./johnhopkinz.jpg" width="180"></a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/F95NAAJJUTDM"><img src="./johnhopkinz.jpg" width="380"></a>
 
 
 </p>
