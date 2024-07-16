@@ -82,6 +82,15 @@
     <td>Image, Metadata</td>
     <td><img src="microscope_720.png" alt="Project 1 Poster" width="200"></td>
   </tr>
+     <tr>
+    <td>
+      <a href="https://www.kaggle.com/datasets/mahdihabibi/segmented-peripheral-blood-cells-using-opencv"><strong>Segmented Peripheral Blood Cells Using OpenCV</strong></a><br>
+      <em>A Dataset of Segmented White Blood Cell Images Using Advanced Image Processing Techniques.</em>
+    </td>
+    <td>GrabCut, Morphological Operations, OpenCV</td>
+    <td>Image, Binary Masks, Dataset</td>
+    <td><img src="kaggle.png" alt="White Blood Cell Segmentation Dataset Poster" width="200"></td>
+  </tr>
     <tr>
     <td>
       <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM/blob/a92f31337892b74239f7392dab45d17f34326e58/Notebooks/LIME_test.ipynb"><strong>LIME for Macroscopic Medical Images</strong></a><br>
@@ -171,15 +180,6 @@
     <td>Timeseries Analysis, Log Transformation, Moving Averages, Seasonal Decomposition, Seasonal Adjustment</td>
     <td>Timeseries</td>
     <td><img src="airspace.jpg" alt="Air Passenger Time Series Analysis Poster" width="200"></td>
-  </tr>
-   <tr>
-    <td>
-      <a href="https://www.kaggle.com/datasets/mahdihabibi/segmented-peripheral-blood-cells-using-opencv"><strong>Segmented Peripheral Blood Cells Using OpenCV</strong></a><br>
-      <em>A Dataset of Segmented White Blood Cell Images Using Advanced Image Processing Techniques.</em>
-    </td>
-    <td>GrabCut, Morphological Operations, OpenCV</td>
-    <td>Image, Binary Masks, Dataset</td>
-    <td><img src="kaggle.png" alt="White Blood Cell Segmentation Dataset Poster" width="200"></td>
   </tr>
 </table>
 
