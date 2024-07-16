@@ -84,7 +84,7 @@
   </tr>
      <tr>
     <td>
-      <a href="https://www.kaggle.com/datasets/mahdihabibi/segmented-peripheral-blood-cells-using-opencv"><strong>Segmented Peripheral Blood Cells Using OpenCV</strong></a><br>
+      <a href="https://www.kaggle.com/datasets/mahdihabibi/segmented-peripheral-blood-cells-using-opencv"><strong>Dataset: Segmented Peripheral Blood Cells Using OpenCV</strong></a><br>
       <em>A Dataset of Segmented White Blood Cell Images Using Advanced Image Processing Techniques.</em>
     </td>
     <td>GrabCut, Morphological Operations, OpenCV</td>
