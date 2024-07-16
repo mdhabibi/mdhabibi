@@ -73,6 +73,15 @@
     <td>Image</td>
     <td><img src="MalariaClassifierArtImage.png" alt="Project 1 Poster" width="200"></td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git"><strong>BloodPy-Automated Blood Cell Classifier</strong></a><br>
+      <em>Deep Convolutional Neural Networks and Machine Learning Models for Multi-Classification of Peripheral Blood Cells.</em>
+    </td>
+    <td>Deep CNN, Data Augmentation, Transfer Learning, U-Net, Image Processing, Statistical Analysis</td>
+    <td>Image</td>
+    <td><img src="MalariaClassifierArtImage.png" alt="Project 1 Poster" width="200"></td>
+  </tr>
     <tr>
     <td>
       <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM/blob/a92f31337892b74239f7392dab45d17f34326e58/Notebooks/LIME_test.ipynb"><strong>LIME for Macroscopic Medical Images</strong></a><br>
