@@ -69,7 +69,7 @@
       <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git"><strong>Malaria Cell Classifier</strong></a><br>
       <em>Deep Convolutional Neural Networks and Machine Learning Models for Anomaly Detection in Microscopic Malaria cells.</em>
     </td>
-    <td>Deep CNN, Data Augmentation</td>
+    <td>Deep CNN, Data Augmentation, Feature Engineering, Image Processing, Optimization</td>
     <td>Image</td>
     <td><img src="MalariaClassifierArtImage.png" alt="Project 1 Poster" width="200"></td>
   </tr>
@@ -87,7 +87,7 @@
       <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM/blob/a92f31337892b74239f7392dab45d17f34326e58/Notebooks/LIME_test.ipynb"><strong>LIME for Macroscopic Medical Images</strong></a><br>
       <em>A Surrogate Model (Local Interpretable Model-agnostic Explanations) for Enhancing Transparency of Medical Diagnostics.</em>
     </td>
-    <td>Deep CNN, LIME, XAI</td>
+    <td>Deep CNN, LIME, XAI, Computer Vision, Optimization</td>
     <td>Image</td>
     <td><img src="LIME.png" alt="Project 1 Poster" width="200"></td>
   </tr>
@@ -96,7 +96,7 @@
       <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM/blob/a92f31337892b74239f7392dab45d17f34326e58/Notebooks/CAM_test.ipynb"><strong>CAM for Macroscopic Medical Images</strong></a><br>
       <em>Class Activation Mapping (CAM) Technique for Anomaly Localization Interpretability.</em>
     </td>
-    <td>Deep CNN, CAM, XAI</td>
+    <td>Deep CNN, CAM, XAI, Computer Vision, Data Analysis, Optimization</td>
     <td>Image</td>
     <td><img src="CAM.png" alt="Project 1 Poster" width="200"></td>
   </tr>
