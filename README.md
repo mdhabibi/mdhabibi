@@ -60,7 +60,7 @@
       <a href="https://github.com/EhsanGharibNezhad/TelescopeML.git"><strong>TelescopeML Open-Source Python Package</strong></a><br>
       <em>Deep Convolutional Neural Networks and Machine Learning Models for Analyzing Stellar and Exoplanetary Telescope Spectra</em>
     </td>
-    <td>Deep CNN, Machine Learning, XAI, LIME</td>
+    <td>Deep CNN, Machine Learning, XAI, Bayesian optimization, Feature Engineering</td>
     <td>Timeseries, Tabular</td>
     <td><img src="TelescopeML.png" alt="Project 1 Poster" width="200"></td>
   </tr>
