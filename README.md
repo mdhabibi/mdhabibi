@@ -125,7 +125,7 @@
     </td>
     <td>FastAPI, Authentication, Data Management, Error Handling</td>
     <td>API, CSV</td>
-    <td><img src="fastapi.png" alt="FastAPI Questionnaire API Poster" width="200"></td>
+    <td><img src="API1.png" alt="FastAPI Questionnaire API Poster" width="200"></td>
   </tr>
   <tr>
     <td>
