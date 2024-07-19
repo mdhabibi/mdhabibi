@@ -123,7 +123,7 @@
       <a href="https://github.com/mdhabibi/fastapi-questionnaire-api.git"><strong>FastAPI Questionnaire API</strong></a><br>
       <em>A FastAPI application to manage and retrieve questionnaire data with user authentication and custom error handling.</em>
     </td>
-    <td>FastAPI, Authentication, Data Management, Error Handling</td>
+    <td>FastAPI, Authentication, Data Management, Error Handling, Shell</td>
     <td>API, CSV</td>
     <td><img src="API1_1.png" alt="FastAPI Questionnaire API Poster" width="200"></td>
   </tr>
