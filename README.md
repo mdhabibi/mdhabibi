@@ -111,7 +111,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/mdhabibi/Automated-Cell-Semantic-Segmentation-with-UNet.git"><strong>Automated Nucleus Detectior</strong></a><br>
+      <a href="https://github.com/mdhabibi/Automated-Cell-Semantic-Segmentation-with-UNet.git"><strong>Automated Nucleus Detector</strong></a><br>
       <em>A Semantic Segmentation Solution for Automating Nucleus Detection of Microscopic Biomedical Images.</em>
     </td>
     <td>U-Net, Keras-tunner, Semantic Segmentation</td>
