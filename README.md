@@ -34,6 +34,8 @@
   <a href="https://courses.opencv.org/certificates/1d6c6cee0d274714950b136b424ecded"><img src="./opencv_university_logo.jpeg" width="180"></a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/F95NAAJJUTDM"><img src="./johnhopkinz.png" width="150"></a>
   <a href="https://files.datascientest.com/diploma/a0c1e41d-d9e4-4650-9135-a8943e45fcab.pdf"><img src="./datascientest.png" width="150"></a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/EHQQBJXQMLJM"><img src="./DLAI.png" width="150"></a>
+
 
 </p>
 ---
