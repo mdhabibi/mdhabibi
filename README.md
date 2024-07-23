@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git"><strong>BloodPy-Automated Blood Cell Classifier</strong></a><br>
+      <a href="https://github.com/DataScientest-Studio/apr24_bds_int_blood_cells.git"><strong>BloodPy-Automated Blood Cell Classifier</strong></a><br>
       <em>Multi-Classification of Peripheral Blood Cells using Deep Convolutional Neural Networks and Machine Learning Models.</em>
     </td>
     <td>Deep CNN, Data Augmentation, Transfer Learning, U-Net, Image Processing, Statistical Analysis, OpenCV, Fine-tuning</td>
