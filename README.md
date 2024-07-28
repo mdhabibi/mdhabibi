@@ -18,7 +18,7 @@
 </p>
 ---
 
-### 🏅 My Professional Badges
+### 🏅 Professional Badges and Credentials
 
 <p align="center">
   <a href="https://www.credly.com/badges/bc43b40a-eef4-4f7a-8f9d-ed97f8b4419e/public_url"><img src="./data-science-professional-certificate-v2.png" width="150"></a>
