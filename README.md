@@ -159,6 +159,15 @@
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/mdhabibi/movie-recommendation-systems"><strong>Movie Recommendation Systems</strong></a><br>
+      <em>A comprehensive collection of movie recommendation systems, implementing collaborative filtering, content-based filtering, and weighted average techniques.</em>
+    </td>
+    <td>Collaborative Filtering, Content-Based Filtering, Weighted Average</td>
+    <td>Metadata, User Ratings, CSV</td>
+    <td><img src="A_visually_appealing_image_representing_a_GitHub_r.png" alt="Movie Recommendation Systems Poster" width="200"></td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/mdhabibi/Capstone-Project-IBM.git"><strong>Falcon 9 rocket Predictor</strong></a><br>
       <em>A Data-Driven Project to Predict the Success of Falcon 9 Rocket Landings.</em>
     </td>
