@@ -164,7 +164,7 @@
     </td>
     <td>Collaborative Filtering, Content-Based Filtering, Weighted Average</td>
     <td>Metadata, User Ratings, CSV</td>
-    <td><img src="A_visually_appealing_image_representing_a_GitHub_r.png" alt="Movie Recommendation Systems Poster" width="200"></td>
+    <td><img src="poster.png" alt="Movie Recommendation Systems Poster" width="200"></td>
   </tr>
   <tr>
     <td>
