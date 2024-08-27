@@ -160,7 +160,7 @@
   <tr>
     <td>
       <a href="https://github.com/mdhabibi/movie-recommendation-systems"><strong>Movie Recommendation Systems</strong></a><br>
-      <em>A comprehensive collection of movie recommendation systems, implementing collaborative filtering, content-based filtering, and weighted average techniques.</em>
+      <em>A comprehensive collection of movie recommendation systems, implementing collaborative filtering, content-based filtering, and Bayesian average techniques.</em>
     </td>
     <td>Collaborative Filtering, Content-Based Filtering, Bayesian Average</td>
     <td>Metadata, User Ratings, CSV</td>
