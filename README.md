@@ -59,10 +59,10 @@
   </tr>
     <tr>
     <td>
-      <a href="https://pypi.org/project/TelescopeML/"><strong>TelescopeML Open-Source Python Package</strong></a><br>
-      <em>Deep Convolutional Neural Networks and Machine Learning Models for Analyzing Stellar and Exoplanetary Telescope Spectra</em>
+      <a href="https://github.com/mdhabibi/solid-principles-tutorial.git"><strong>SOLID Design Principles Tutorial</strong></a><br>
+      <em>Learn SOLID design principles through interactive Jupyter notebook tutorials</em>
     </td>
-    <td>Deep CNN, Machine Learning, XAI, Bayesian optimization, Feature Engineering</td>
+    <td>Solid-principles, design-patterns, object-oriented-programming, software-architecture, code-quality</td>
     <td>Timeseries, Tabular</td>
     <td><img src="TelescopeML.png" alt="Project 1 Poster" width="200"></td>
   </tr>
