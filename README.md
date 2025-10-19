@@ -64,7 +64,7 @@
     </td>
     <td>Solid-principles, design-patterns, object-oriented-programming, software-architecture, code-quality</td>
     <td> </td>
-    <td><img src="TelescopeML.png" alt="Project 1 Poster" width="200"></td>
+    <td><img src="Banner-solid.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
     <td>
