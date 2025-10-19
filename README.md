@@ -63,7 +63,7 @@
       <em>Learn SOLID design principles through interactive Jupyter notebook tutorials</em>
     </td>
     <td>Solid-principles, design-patterns, object-oriented-programming, software-architecture, code-quality</td>
-    <td>Timeseries, Tabular</td>
+    <td> </td>
     <td><img src="TelescopeML.png" alt="Project 1 Poster" width="200"></td>
   </tr>
   <tr>
