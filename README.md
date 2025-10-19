@@ -1,12 +1,11 @@
-### Hello World, I'm Mahdi, Data Scientist | MLOps | Computational Physicist (Ph.D.)! 👋
+### Hello World, I'm Mahdi, Data Scientist | AI and ML Engineer | Computational Physicist (Ph.D.)! 👋
 
-- Data scientist and machine learning developer with over 10 years of experience in data science.
-- Expert in Python, C++, with a solid foundation in physics, mathematics, and statistics.
-- Expert in developing XAI modules to enhance decision-making transparency of black-box models for images and timeseries.
+- Senior data scientist and machine learning developer with more than 10 years of experience in data science.
+- Lead developer of recommendation system and AI applications at DealCircle GmbH. 
+- Expert in XAI techniques to enhance decision-making transparency of black-box models.
 - Developer of the Open-Source Python Package (TelescopeML).
 - Lead developer of XAI module for TelescopeML (PyPI). 
 - Developer of end-to-end AI/ML/DL projects, collaborating with cross-functional teams.
-- Developer of a novel suppression model and particle-in-cell simulation module for emission flux.
 ---
 
 <h3 align="left">Connect with me:</h3>
