@@ -1,215 +1,122 @@
-### Hello World, I'm Mahdi, Data Scientist | AI and ML Engineer | Computational Physicist (Ph.D.)! 👋
-
-- Senior data scientist and machine learning developer with more than 10 years of experience in data science.
-- Lead developer of recommendation system and AI applications at DealCircle GmbH. 
-- Expert in XAI techniques to enhance decision-making transparency of black-box models.
-- Developer of the Open-Source Python Package (TelescopeML).
-- Lead developer of XAI module for TelescopeML (PyPI). 
-- Developer of end-to-end AI/ML/DL projects, collaborating with cross-functional teams.
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/m_habibi36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_habibi36" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahdi-habibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-habibi" height="30" width="40" /></a>
-<a href="https://kaggle.com/mahdihabibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahdihabibi" height="30" width="40" /></a>
-<a href="https://medium.com/@mhabibi.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mhabibi.ds" height="30" width="40" /></a>
-<a href="https://mahdi-habibi.streamlit.app/" target="blank"><img align="center" src="https://github.com/mdhabibi/mdhabibi/blob/5e82621c8e21da1c1c5b875f1b240dfecc9cfe30/logo.png" alt="@mhabibi.ds" height="30" width="40" /></a>
-</p>
----
-
-### 🏅 Professional Badges and Credentials
+<h1 align="center">Mahdi Habibi, Ph.D.</h1>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/bc43b40a-eef4-4f7a-8f9d-ed97f8b4419e/public_url"><img src="./data-science-professional-certificate-v2.png" width="150"></a>
-  <!--<a href="https://www.credly.com/badges/7ea6a665-c975-468c-a385-b84c8dfcb485/public_url"><img src="./applied-data-science-capstone.1.png" width="150"></a>-->
-  <!--<a href="https://www.credly.com/badges/fe0dc299-dd44-416d-827f-be2bfb5d4ac1/public_url"><img src="./data-science-orientation.png" width="150"></a>-->
-  <!--<a href="https://www.credly.com/badges/517ed3bd-99e0-4e06-a71a-7b4c608b38bb/public_url"><img src="./tools-for-data-science-v2.png" width="150"></a>-->
-  <!--<a href="https://www.credly.com/badges/4c44dda4-2eb8-4ecc-ac33-28893e13b6bc/public_url"><img src="./Data_Science_Methodology_Foundational.png" width="150"></a>-->
-  <!--<a href="https://www.credly.com/badges/81761b38-53d2-4f47-8dee-42dc1a9af259/public_url"><img src="./databases-and-sql-for-data-science.png" width="150"></a>-->
-  <!--<a href="https://www.credly.com/badges/477bb76c-b576-45df-80d0-786e5f52e0b2/public_url"><img src="./python-for-data-science-and-ai.png" width="150"></a>-->
-  <!--<a href="https://www.credly.com/badges/af63bb30-cacf-4bd3-8782-946aa34b3dfe/public_url"><img src="./data-analysis-with-python (1).png" width="150"></a>-->
-  <!--<a href="https://www.credly.com/badges/57740ecd-223d-40c9-8d14-814e19b17b46/public_url"><img src="./machine-learning-with-python (1).png" width="150"></a>-->
-  <!--<a href="https://www.credly.com/badges/7ccde3f1-f520-4186-87b3-b68ba1334d9a/public_url"><img src="./data-visualization-with-python.png" width="150"></a>-->
-  <a href="https://courses.opencv.org/certificates/1d6c6cee0d274714950b136b424ecded"><img src="./opencv_university_logo.jpeg" width="180"></a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/F95NAAJJUTDM"><img src="./johnhopkinz.png" width="150"></a>
-  <a href="https://files.datascientest.com/diploma/a0c1e41d-d9e4-4650-9135-a8943e45fcab.pdf"><img src="./datascientest.png" width="150"></a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/EHQQBJXQMLJM"><img src="./DLAI.png" width="150"></a>
-
-
+  <b>Data Scientist · AI / ML Engineer · Computational Physicist</b>
 </p>
+
+<p align="center">
+  Lead AI developer at DealCircle GmbH · Open-source author (TelescopeML) · Explainable AI (XAI) specialist
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mahdi-habibi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://mahdi-habibi.streamlit.app/"><img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://kaggle.com/mahdihabibi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://medium.com/@mhabibi.ds"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://twitter.com/m_habibi36"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+
 ---
-<h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhabibi&show_icons=true&locale=en&layout=compact" alt="mdhabibi" /></p>
+## About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdhabibi&show_icons=true&locale=en" alt="mdhabibi" /></p>
+I am a senior data scientist and machine learning engineer with a Ph.D. in computational physics and more than 10 years of experience turning data into reliable, production-grade systems. My work spans the full lifecycle of AI/ML projects, from research and prototyping to deployment, in close collaboration with cross-functional teams.
+
+- 🔭 Lead developer of recommendation systems and AI applications at **DealCircle GmbH**.
+- 🧠 Specialist in **Explainable AI (XAI)**, improving the transparency and trustworthiness of black-box models.
+- 📦 Author and maintainer of the open-source Python package **[TelescopeML](https://pypi.org/project/TelescopeML/)**, including its XAI module.
+- 🚀 Builder of end-to-end AI / ML / Deep Learning projects across computer vision, generative models, and time-series.
+
+## Focus Areas
+
+`Explainable AI (XAI)` · `Deep Learning` · `Computer Vision` · `Generative Models` · `Recommendation Systems` · `Time-Series Analysis` · `MLOps & Deployment`
 
 ---
 
-### Projects
+## Skills & Tools
 
-<table>
-  <tr>
-    <th>Projects</th>
-    <th>Techniques</th>
-    <th>Data Types</th>
-    <th>Poster</th>
-  </tr>
-    <tr>
-    <td>
-      <a href="https://github.com/mdhabibi/solid-principles-tutorial.git"><strong>SOLID Design Principles Tutorial</strong></a><br>
-      <em>Learn SOLID design principles through interactive Jupyter notebook tutorials</em>
-    </td>
-    <td>Solid-principles, design-patterns, object-oriented-programming, software-architecture, code-quality</td>
-    <td> </td>
-    <td><img src="Banner-solid.png" alt="Project 1 Poster" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://pypi.org/project/TelescopeML/"><strong>TelescopeML Open-Source Python Package</strong></a><br>
-      <em>Deep Convolutional Neural Networks and Machine Learning Models for Analyzing Stellar and Exoplanetary Telescope Spectra</em>
-    </td>
-    <td>Deep CNN, Machine Learning, XAI, Bayesian optimization, Feature Engineering</td>
-    <td>Timeseries, Tabular</td>
-    <td><img src="TelescopeML.png" alt="Project 1 Poster" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git"><strong>Malaria Cell Classifier</strong></a><br>
-      <em>Deep Convolutional Neural Networks and Machine Learning Models for Anomaly Detection in Microscopic Malaria cells.</em>
-    </td>
-    <td>Deep CNN, Data Augmentation, Feature Engineering, Image Processing, Optimization</td>
-    <td>Image</td>
-    <td><img src="MalariaClassifierArtImage.png" alt="Project 1 Poster" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/DataScientest-Studio/apr24_bds_int_blood_cells.git"><strong>BloodPy-Automated Blood Cell Classifier</strong></a><br>
-      <em>Multi-Classification of Peripheral Blood Cells using Deep Convolutional Neural Networks and Machine Learning Models.</em>
-    </td>
-    <td>Deep CNN, Data Augmentation, Transfer Learning, U-Net, Image Processing, Statistical Analysis, OpenCV, Fine-tuning</td>
-    <td>Image, Metadata</td>
-    <td><img src="microscope_720.png" alt="Project 1 Poster" width="200"></td>
-  </tr>
-     <tr>
-    <td>
-      <a href="https://www.kaggle.com/datasets/mahdihabibi/segmented-peripheral-blood-cells-using-opencv"><strong>Dataset: Segmented Peripheral Blood Cells Using OpenCV</strong></a><br>
-      <em>A Dataset of Segmented White Blood Cell Images Using Advanced Image Processing Techniques.</em>
-    </td>
-    <td>GrabCut, Morphological Operations, OpenCV</td>
-    <td>Image, Binary Masks, Dataset</td>
-    <td><img src="kaggle.png" alt="White Blood Cell Segmentation Dataset Poster" width="200"></td>
-  </tr>
-    <tr>
-    <td>
-      <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM/blob/a92f31337892b74239f7392dab45d17f34326e58/Notebooks/LIME_test.ipynb"><strong>LIME for Macroscopic Medical Images</strong></a><br>
-      <em>A Surrogate Model (Local Interpretable Model-agnostic Explanations) for Enhancing Transparency of Medical Diagnostics.</em>
-    </td>
-    <td>Deep CNN, LIME, XAI, Computer Vision, Optimization</td>
-    <td>Image</td>
-    <td><img src="LIME.png" alt="Project 1 Poster" width="200"></td>
-  </tr>
-    <tr>
-    <td>
-      <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM/blob/a92f31337892b74239f7392dab45d17f34326e58/Notebooks/CAM_test.ipynb"><strong>CAM for Macroscopic Medical Images</strong></a><br>
-      <em>Class Activation Mapping (CAM) Technique for Anomaly Localization Interpretability.</em>
-    </td>
-    <td>Deep CNN, CAM, XAI, Computer Vision, Data Analysis, Optimization</td>
-    <td>Image</td>
-    <td><img src="CAM.png" alt="Project 1 Poster" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mdhabibi/Automated-Cell-Semantic-Segmentation-with-UNet.git"><strong>Automated Nucleus Detector</strong></a><br>
-      <em>A Semantic Segmentation Solution for Automating Nucleus Detection of Microscopic Biomedical Images.</em>
-    </td>
-    <td>U-Net, Keras-tunner, Semantic Segmentation</td>
-    <td>Image</td>
-    <td><img src="giphy.gif" alt="Project 1 Poster" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mdhabibi/fastapi-questionnaire-api.git"><strong>FastAPI Questionnaire API</strong></a><br>
-      <em>A FastAPI application to manage and retrieve questionnaire data with user authentication and custom error handling.</em>
-    </td>
-    <td>FastAPI, Authentication, Data Management, Error Handling, Shell</td>
-    <td>API, CSV</td>
-    <td><img src="API1_1.png" alt="FastAPI Questionnaire API Poster" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mdhabibi/Neural-Compression-with-Autoencoders.git"><strong>Neural Compression</strong></a><br>
-      <em>Advanced Autoencoder Architecture for Efficient Data Compression Losslessly.</em>
-    </td>
-    <td>Autoencoder, GenAI, SSIM, PSNR</td>
-    <td>Image</td>
-    <td><img src="poster-comression.png" alt="Project 1 Poster" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mdhabibi/LIME-for-Time-Series.git"><strong>LIME for ECG Classification</strong></a><br>
-      <em>A Surrogate Model (Local Interpretable Model-agnostic Explanations) for Enhancing Transparency of TimeSeries.</em>
-    </td>
-    <td>CNN, LIME, Time Series Analysis</td>
-    <td>Timeseries</td>
-    <td><img src="ECG_Animation.gif" alt="Project 1 Poster" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mdhabibi/DeepLearning-VAE.git"><strong>Beta-Variational Autoencoders</strong></a><br>
-      <em>Generative Learning (GenAI) with Beta-Variational Autoencoders.</em>
-    </td>
-    <td>Beta-VAEs, Latent Space Analysis</td>
-    <td>Image</td>
-    <td><img src="VAEs.png" alt="Project 1 Poster" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mdhabibi/movie-recommendation-systems"><strong>Movie Recommendation Systems</strong></a><br>
-      <em>A comprehensive collection of movie recommendation systems, implementing collaborative filtering, content-based filtering, and Bayesian average techniques.</em>
-    </td>
-    <td>Collaborative Filtering, Content-Based Filtering, Bayesian Average</td>
-    <td>Metadata, User Ratings, CSV</td>
-    <td><img src="poster.png" alt="Movie Recommendation Systems Poster" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mdhabibi/Capstone-Project-IBM.git"><strong>Falcon 9 rocket Predictor</strong></a><br>
-      <em>A Data-Driven Project to Predict the Success of Falcon 9 Rocket Landings.</em>
-    </td>
-    <td>Data Wrangling, Feature Engineering, Web-Scraping, JSON Data Processing, SQL, Hadoop, Folium, Decision Tree Classification</td>
-    <td>Unstructured Data, Tabular, Database</td>
-    <td><img src="poster-ibm.png" alt="Project 1 Poster" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mdhabibi/Variational_AutoEncoders.git"><strong>Variational AutoEncoders</strong></a><br>
-      <em>A collection of Variational AutoEncoder (VAE) architectures developed by Keras deep learning framework.</em>
-    </td>
-    <td>Variational AutoEncoders, Exploratory Data Analysis (EDA)</td>
-    <td>Image</td>
-    <td><img src="AEs.png" alt="Project 1 Poster" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.kaggle.com/code/mahdihabibi/netflix-content-analysis"><strong>Netflix Content Analysis</strong></a><br>
-      <em>An Exploratory Analysis of Netflix's Vast Catalog to Uncover Trends and Insights into Content Distribution, Popularity, Quality, and Key Contributors.</em>
-    </td>
-    <td>Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis</td>
-    <td>Metadata</td>
-    <td><img src="netflix.jpg" alt="Netflix Content Analysis Poster" width="200"></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.kaggle.com/code/mahdihabibi/air-passenger-time-series-analysis-1"><strong>Air Passenger Timeseries Analysis</strong></a><br>
-      <em>An Exploratory Analysis of the Air Passengers Timeseries dataset, Uncovering Trends and Patterns in Air Travel Over the Years.</em>
-    </td>
-    <td>Timeseries Analysis, Log Transformation, Moving Averages, Seasonal Decomposition, Seasonal Adjustment</td>
-    <td>Timeseries</td>
-    <td><img src="airspace.jpg" alt="Air Passenger Time Series Analysis Poster" width="200"></td>
-  </tr>
-</table>
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+**ML & Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Data & Visualization**
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Backend & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mdhabibi&show_icons=true&locale=en&theme=default" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhabibi&show_icons=true&locale=en&layout=compact" alt="Top languages"/>
+</p>
+
+---
+
+## 🏅 Certifications & Credentials
+
+<p align="center">
+  <a href="https://www.credly.com/badges/bc43b40a-eef4-4f7a-8f9d-ed97f8b4419e/public_url"><img height="90" src="https://github.com/mdhabibi/mdhabibi/raw/main/data-science-professional-certificate-v2.png" alt="IBM Data Science Professional Certificate"/></a>
+  <a href="https://courses.opencv.org/certificates/1d6c6cee0d274714950b136b424ecded"><img height="90" src="https://github.com/mdhabibi/mdhabibi/raw/main/opencv_university_logo.jpeg" alt="OpenCV University"/></a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/F95NAAJJUTDM"><img height="90" src="https://github.com/mdhabibi/mdhabibi/raw/main/johnhopkinz.png" alt="Johns Hopkins University"/></a>
+  <a href="https://files.datascientest.com/diploma/a0c1e41d-d9e4-4650-9135-a8943e45fcab.pdf"><img height="90" src="https://github.com/mdhabibi/mdhabibi/raw/main/datascientest.png" alt="DataScientest"/></a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/EHQQBJXQMLJM"><img height="90" src="https://github.com/mdhabibi/mdhabibi/raw/main/DLAI.png" alt="DeepLearning.AI"/></a>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Techniques | Data Types | Poster |
+| --- | --- | --- | --- |
+| **[SOLID Design Principles Tutorial](https://github.com/mdhabibi/solid-principles-tutorial.git)**<br>Learn SOLID design principles through interactive Jupyter notebook tutorials. | SOLID principles, design patterns, OOP, software architecture, code quality | — | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/Banner-solid.png"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/Banner-solid.png" alt="SOLID poster"/></a> |
+| **[TelescopeML — Open-Source Python Package](https://pypi.org/project/TelescopeML/)**<br>Deep CNNs and ML models for analyzing stellar and exoplanetary telescope spectra. | Deep CNN, Machine Learning, XAI, Bayesian optimization, Feature Engineering | Timeseries, Tabular | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/TelescopeML.png"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/TelescopeML.png" alt="TelescopeML poster"/></a> |
+| **[Malaria Cell Classifier](https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git)**<br>Deep CNNs and ML models for anomaly detection in microscopic malaria cells. | Deep CNN, Data Augmentation, Feature Engineering, Image Processing, Optimization | Image | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/MalariaClassifierArtImage.png"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/MalariaClassifierArtImage.png" alt="Malaria classifier poster"/></a> |
+| **[BloodPy — Automated Blood Cell Classifier](https://github.com/DataScientest-Studio/apr24_bds_int_blood_cells.git)**<br>Multi-classification of peripheral blood cells using deep CNNs and ML models. | Deep CNN, Data Augmentation, Transfer Learning, U-Net, Image Processing, Statistical Analysis, OpenCV, Fine-tuning | Image, Metadata | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/microscope_720.png"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/microscope_720.png" alt="BloodPy poster"/></a> |
+| **[Dataset: Segmented Peripheral Blood Cells (OpenCV)](https://www.kaggle.com/datasets/mahdihabibi/segmented-peripheral-blood-cells-using-opencv)**<br>A dataset of segmented white blood cell images using advanced image processing. | GrabCut, Morphological Operations, OpenCV | Image, Binary Masks, Dataset | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/kaggle.png"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/kaggle.png" alt="Blood cell dataset poster"/></a> |
+| **[LIME for Macroscopic Medical Images](https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM/blob/a92f31337892b74239f7392dab45d17f34326e58/Notebooks/LIME_test.ipynb)**<br>A surrogate model (LIME) for enhancing transparency of medical diagnostics. | Deep CNN, LIME, XAI, Computer Vision, Optimization | Image | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/LIME.png"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/LIME.png" alt="LIME poster"/></a> |
+| **[CAM for Macroscopic Medical Images](https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM/blob/a92f31337892b74239f7392dab45d17f34326e58/Notebooks/CAM_test.ipynb)**<br>Class Activation Mapping (CAM) for anomaly localization interpretability. | Deep CNN, CAM, XAI, Computer Vision, Data Analysis, Optimization | Image | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/CAM.png"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/CAM.png" alt="CAM poster"/></a> |
+| **[Automated Nucleus Detector](https://github.com/mdhabibi/Automated-Cell-Semantic-Segmentation-with-UNet.git)**<br>A semantic segmentation solution for automating nucleus detection in biomedical images. | U-Net, Keras-Tuner, Semantic Segmentation | Image | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/giphy.gif"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/giphy.gif" alt="Nucleus detector poster"/></a> |
+| **[FastAPI Questionnaire API](https://github.com/mdhabibi/fastapi-questionnaire-api.git)**<br>A FastAPI application to manage and retrieve questionnaire data with authentication and custom error handling. | FastAPI, Authentication, Data Management, Error Handling, Shell | API, CSV | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/API1_1.png"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/API1_1.png" alt="FastAPI poster"/></a> |
+| **[Neural Compression](https://github.com/mdhabibi/Neural-Compression-with-Autoencoders.git)**<br>Advanced autoencoder architecture for efficient lossless data compression. | Autoencoder, GenAI, SSIM, PSNR | Image | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/poster-comression.png"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/poster-comression.png" alt="Neural compression poster"/></a> |
+| **[LIME for ECG Classification](https://github.com/mdhabibi/LIME-for-Time-Series.git)**<br>A surrogate model (LIME) for enhancing transparency of time-series classification. | CNN, LIME, Time Series Analysis | Timeseries | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/ECG_Animation.gif"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/ECG_Animation.gif" alt="ECG LIME poster"/></a> |
+| **[Beta-Variational Autoencoders](https://github.com/mdhabibi/DeepLearning-VAE.git)**<br>Generative learning (GenAI) with Beta-Variational Autoencoders. | Beta-VAEs, Latent Space Analysis | Image | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/VAEs.png"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/VAEs.png" alt="Beta-VAE poster"/></a> |
+| **[Movie Recommendation Systems](https://github.com/mdhabibi/movie-recommendation-systems)**<br>Collaborative filtering, content-based filtering, and Bayesian average techniques. | Collaborative Filtering, Content-Based Filtering, Bayesian Average | Metadata, User Ratings, CSV | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/poster.png"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/poster.png" alt="Recommender poster"/></a> |
+| **[Falcon 9 Rocket Predictor](https://github.com/mdhabibi/Capstone-Project-IBM.git)**<br>A data-driven project to predict the success of Falcon 9 rocket landings. | Data Wrangling, Feature Engineering, Web-Scraping, JSON Processing, SQL, Hadoop, Folium, Decision Trees | Unstructured, Tabular, Database | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/poster-ibm.png"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/poster-ibm.png" alt="Falcon 9 poster"/></a> |
+| **[Variational Autoencoders](https://github.com/mdhabibi/Variational_AutoEncoders.git)**<br>A collection of VAE architectures built with the Keras deep learning framework. | Variational Autoencoders, Exploratory Data Analysis | Image | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/AEs.png"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/AEs.png" alt="VAE poster"/></a> |
+| **[Netflix Content Analysis](https://www.kaggle.com/code/mahdihabibi/netflix-content-analysis)**<br>Exploratory analysis of Netflix's catalog to uncover trends in content distribution and quality. | Exploratory Data Analysis, Data Visualization, Statistical Analysis | Metadata | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/netflix.jpg"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/netflix.jpg" alt="Netflix analysis poster"/></a> |
+| **[Air Passenger Time-Series Analysis](https://www.kaggle.com/code/mahdihabibi/air-passenger-time-series-analysis-1)**<br>Exploratory analysis of the Air Passengers dataset, uncovering trends and patterns over time. | Time-Series Analysis, Log Transformation, Moving Averages, Seasonal Decomposition | Timeseries | <a href="https://github.com/mdhabibi/mdhabibi/blob/main/airspace.jpg"><img width="180" src="https://github.com/mdhabibi/mdhabibi/raw/main/airspace.jpg" alt="Air passenger poster"/></a> |
+
+---
+
+<p align="center">
+  <i>Open to collaboration on AI, machine learning, and explainable-AI projects. Feel free to reach out.</i>
+</p>
