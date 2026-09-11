@@ -72,15 +72,6 @@ I am a senior data scientist and machine learning engineer with a Ph.D. in compu
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mdhabibi&show_icons=true&locale=en&theme=default" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhabibi&show_icons=true&locale=en&layout=compact" alt="Top languages"/>
-</p>
-
----
-
 ## 🏅 Certifications & Credentials
 
 <p align="center">
